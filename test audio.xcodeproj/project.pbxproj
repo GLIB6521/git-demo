@@ -12,9 +12,9 @@
 		294CC4C72113176B00CAFDD1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294CC4C52113176B00CAFDD1 /* Main.storyboard */; };
 		294CC4C92113176B00CAFDD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 294CC4C82113176B00CAFDD1 /* Assets.xcassets */; };
 		294CC4CC2113176B00CAFDD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294CC4CA2113176B00CAFDD1 /* LaunchScreen.storyboard */; };
-		294CC4D62113178700CAFDD1 /* arrow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 294CC4D32113178600CAFDD1 /* arrow.mp3 */; };
-		294CC4D72113178700CAFDD1 /* sax.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 294CC4D42113178600CAFDD1 /* sax.mp3 */; };
-		294CC4D82113178700CAFDD1 /* mario_bros_level_1-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 294CC4D52113178600CAFDD1 /* mario_bros_level_1-2.mp3 */; };
+		29D475692115DA26006248BC /* arrow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 29D475662115DA25006248BC /* arrow.mp3 */; };
+		29D4756A2115DA26006248BC /* sax.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 29D475672115DA25006248BC /* sax.mp3 */; };
+		29D4756B2115DA26006248BC /* mario_bros_level_1-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 29D475682115DA26006248BC /* mario_bros_level_1-2.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,9 +25,9 @@
 		294CC4C82113176B00CAFDD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		294CC4CB2113176B00CAFDD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		294CC4CD2113176B00CAFDD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		294CC4D32113178600CAFDD1 /* arrow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = arrow.mp3; path = ../../arrow.mp3; sourceTree = "<group>"; };
-		294CC4D42113178600CAFDD1 /* sax.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sax.mp3; path = ../../sax.mp3; sourceTree = "<group>"; };
-		294CC4D52113178600CAFDD1 /* mario_bros_level_1-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "mario_bros_level_1-2.mp3"; path = "../../mario_bros_level_1-2.mp3"; sourceTree = "<group>"; };
+		29D475662115DA25006248BC /* arrow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = arrow.mp3; sourceTree = "<group>"; };
+		29D475672115DA25006248BC /* sax.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sax.mp3; sourceTree = "<group>"; };
+		29D475682115DA26006248BC /* mario_bros_level_1-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "mario_bros_level_1-2.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,9 +66,9 @@
 				294CC4C82113176B00CAFDD1 /* Assets.xcassets */,
 				294CC4CA2113176B00CAFDD1 /* LaunchScreen.storyboard */,
 				294CC4CD2113176B00CAFDD1 /* Info.plist */,
-				294CC4D32113178600CAFDD1 /* arrow.mp3 */,
-				294CC4D52113178600CAFDD1 /* mario_bros_level_1-2.mp3 */,
-				294CC4D42113178600CAFDD1 /* sax.mp3 */,
+				29D475662115DA25006248BC /* arrow.mp3 */,
+				29D475682115DA26006248BC /* mario_bros_level_1-2.mp3 */,
+				29D475672115DA25006248BC /* sax.mp3 */,
 			);
 			path = "test audio";
 			sourceTree = "<group>";
@@ -134,9 +134,9 @@
 			files = (
 				294CC4CC2113176B00CAFDD1 /* LaunchScreen.storyboard in Resources */,
 				294CC4C92113176B00CAFDD1 /* Assets.xcassets in Resources */,
-				294CC4D72113178700CAFDD1 /* sax.mp3 in Resources */,
-				294CC4D82113178700CAFDD1 /* mario_bros_level_1-2.mp3 in Resources */,
-				294CC4D62113178700CAFDD1 /* arrow.mp3 in Resources */,
+				29D4756A2115DA26006248BC /* sax.mp3 in Resources */,
+				29D4756B2115DA26006248BC /* mario_bros_level_1-2.mp3 in Resources */,
+				29D475692115DA26006248BC /* arrow.mp3 in Resources */,
 				294CC4C72113176B00CAFDD1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
